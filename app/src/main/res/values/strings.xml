@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="library_string">この文字列はライブラリの文字列です。</string>
+    <string name="google_url">http://google.com</string>
+</resources>
